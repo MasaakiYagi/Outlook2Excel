@@ -3,7 +3,7 @@ Outlook2Excel
 
 ## Overview
 This code is basically for me. But if you can use it, it's ok to use it. hehe
-You can input data to an excel from outlook events.
+You can input data to an excel from outlook events automatically.
 
 ## Requirement
 Following Python libraries
